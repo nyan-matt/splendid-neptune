@@ -33,6 +33,13 @@ fields:
     - blue
     - violet
     - yellow
+- name: color
+  type: color
+  label: Color
+  config:
+    required: false
+    color_format: Hex
+  description: Color Help
 - type: field_group
   name: header
   label: Header Configuration
