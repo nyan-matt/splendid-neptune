@@ -1,9 +1,9 @@
 {
   "title": "Stackbit Exto Theme",
-  "color_scheme": "dark",
-  "accent_color": "pink",
+  "color_scheme": "light",
+  "accent_color": "green",
   "header": {
-    "title": "Exto",
+    "title": "FOO",
     "has_nav": true
   },
   "footer": {
