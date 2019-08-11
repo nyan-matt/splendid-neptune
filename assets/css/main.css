@@ -1425,15 +1425,15 @@ img {
 .accent-green #colophon a:focus,
 .accent-green .testimonial-text:before,
 .accent-green .view-all {
-  color: #0da5b1; }
+  color: #5bb75b; }
 
 .accent-green button,
 .accent-green input[type="submit"],
 .accent-green input[type="button"],
 .accent-green input[type="reset"],
 .accent-green a.button {
-  border-color: #0da5b1;
-  color: #0da5b1; }
+  border-color: #5bb75b;
+  color: #5bb75b; }
   .accent-green button:hover, .accent-green button:focus, .accent-green button:active,
   .accent-green input[type="submit"]:hover,
   .accent-green input[type="submit"]:focus,
@@ -1447,7 +1447,7 @@ img {
   .accent-green a.button:hover,
   .accent-green a.button:focus,
   .accent-green a.button:active {
-    color: #0da5b1; }
+    color: #5bb75b; }
 
 .accent-green blockquote,
 .accent-green button.button:before,
@@ -1457,11 +1457,11 @@ img {
 .accent-green .line-top:before,
 .accent-green .view-all:before,
 .accent-green .view-all:after {
-  border-color: #0da5b1; }
+  border-color: #5bb75b; }
 
 .accent-green .form-row .input-focus,
 .accent-green .site-title a {
-  background: #0da5b1; }
+  background: #5bb75b; }
 
 /* Blue accent color */
 .accent-blue a,
